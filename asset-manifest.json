@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/school-website-reactjs/static/css/main.f0979872.css",
+    "main.js": "/school-website-reactjs/static/js/main.dcec5834.js",
+    "static/js/453.00a81ccd.chunk.js": "/school-website-reactjs/static/js/453.00a81ccd.chunk.js",
+    "static/media/carousel1.jpg": "/school-website-reactjs/static/media/carousel1.8ca37371926c1df17c71.jpg",
+    "static/media/background.jpg": "/school-website-reactjs/static/media/background.0d8ff2c425d62f81dc19.jpg",
+    "static/media/carousel3.jpg": "/school-website-reactjs/static/media/carousel3.25edaa52c7266a916541.jpg",
+    "static/media/studentbackground.jpeg": "/school-website-reactjs/static/media/studentbackground.04f2341e44364d047506.jpeg",
+    "static/media/carousel2.jpg": "/school-website-reactjs/static/media/carousel2.c0968ff49822b30d2883.jpg",
+    "static/media/school.jpg": "/school-website-reactjs/static/media/school.8a57f5a44d938a3b1b39.jpg",
+    "static/media/t3.jpg": "/school-website-reactjs/static/media/t3.5d6bc5858993dd5136a6.jpg",
+    "static/media/t2.jpg": "/school-website-reactjs/static/media/t2.d20cf0d27ce8e2ea8dc4.jpg",
+    "static/media/img6.jpg": "/school-website-reactjs/static/media/img6.414186975bf9557bae90.jpg",
+    "static/media/img1.jpg": "/school-website-reactjs/static/media/img1.f26e533b9057bfc73492.jpg",
+    "static/media/img3.jpg": "/school-website-reactjs/static/media/img3.000d21ec94e846f3d089.jpg",
+    "static/media/img4.jpg": "/school-website-reactjs/static/media/img4.cd2bb33d1642c1837c88.jpg",
+    "static/media/img2.jpg": "/school-website-reactjs/static/media/img2.875d4989015a9327499e.jpg",
+    "index.html": "/school-website-reactjs/index.html",
+    "main.f0979872.css.map": "/school-website-reactjs/static/css/main.f0979872.css.map",
+    "main.dcec5834.js.map": "/school-website-reactjs/static/js/main.dcec5834.js.map",
+    "453.00a81ccd.chunk.js.map": "/school-website-reactjs/static/js/453.00a81ccd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0979872.css",
+    "static/js/main.dcec5834.js"
+  ]
+}
